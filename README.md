@@ -44,4 +44,4 @@ Identify land parcels free of environmental constraints and suitable for wind tu
 4. **Parcel Evaluation**
    - Intersects suitability raster with parcels.
    - Calculates pixel count and % of suitability per parcel.
-   - 
+   
